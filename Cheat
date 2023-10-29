@@ -673,7 +673,7 @@ MiningLeftBox:AddToggle('AutoMine', {
 	end
 })
 
-iningLeftBox:AddToggle('AutoMineOther', {
+MiningLeftBox:AddToggle('AutoMineOther', {
 	Text = 'Auto Mine (Other Version)',
 	Default = false,
 	Tooltip = 'Auto Mines',
